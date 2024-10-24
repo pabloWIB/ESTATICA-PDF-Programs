@@ -1,29 +1,34 @@
-What colors and branding elements would you like to use?
-(Include any specific color schemes, logos, or fonts that should be incorporated.)(Optional)
-Me gustaria que la pagina tenga los mismos colores del logotipo.
+Mira aqui estan los elementos, por si tienes oportunidad de abrirla y verla (esta es otra, no es mia. pero algo asi necesitamos, estos elementos): https://shop2.ketoadvancedfatburner.com/#/en/main/?campaign=5168&subid1=292864&subid2=5989663&subid3=9rUDzVqwOXJQLba6qEJEpUoFJCb&subid4=1122krty&temp=261812874
 
-<img src="18da5e0b8e584cac972a769deeec173f-free.png"/>
+Solo tengo una duda. De esa misma podemos hacer diferentes versiones, cierto'
 
-Quisiera saber si podrías hacerme una pagina para reservas de llamadas?
-Tenía pensado relacionarlo con calendy
+A lo mejor una q sea las gomitas a lo mejor otra que sea un plan de dietas para adelgazar
 
-Me gustaría incluir un video al inicio de la página, yo te mandaría el video en caso de que si pudieras hacerla
+Que son nuestros dos productos
 
-La estructura sería así
-<img src="IMG_6430.jpeg"/>
+Vaya. trabajemos la pagina para que con simples cambios de texto e imagenes se entienda la idea de los dos productos.
 
-Información que me gustaría que tuviera la landing page
+Es utilizar lo de nuestro server que erauna pagina que ya estaba hecha y esta que temande
 
-Titulo:
+1. If you’re ordering for a business, what’s your industry?(Optional)
+Salud y bienestar
 
-LA FÓRMULA GARANTIZADA PARA ESCALAR UNA MARCA DE CUIDADO DE LA PIEL A 6,7 Y 8 CIFRAS ESTE 2024
-SIN TENER QUE DEPENDER DE AGENCIAS, FACEBOOK ADS E INFLUENCERS
+2. Is this order part of a bigger project you're working on?(Optional)
+Creación de negocios
 
-Sobre mi:
+https://shop2.ketoadvancedfatburner.com/#/en/main/?campaign=5168&subid1=292864&subid2=5989663&subid3=9rUDzVqwOXJQLba6qEJEpUoFJCb&subid4=1122krty&temp=261812874
 
-Soy un socio de crecimiento que se enfoca en implementar una fórmula que garantiza crecer tu negocio de cuidado de la piel, con distintas estrategias cómo sería la implementación de nuevos embudos de venta que funcionan muy bien en la actualidad, un ejemplo es el embudo de VSL el cual está enfocado en ofrecer valor al cliente, al mismo tiempo creando anuncios de alta conversión, haciendo marketing email, encontrando ofertas de adquisición ganadoras, entre otras estrategias que conforma esta fórmula,  yo no vendo un servicio ni soy una agencia, a diferencia de ellos yo estoy aquí para ofrecerte el mayor valor posible y hacer que tu negocio escale a esas 6, 7 y 8 cifras, me gustaría aportarte mucho más valor en una llamada de demo y así poder contarte más sobre estos nuevos embudos de venta, anuncios de alta conversión, ofertas de adquisición ganadoras, marketing email y muchas más estrategias que conforman esta fórmula y que garantizan crecer tu negocio de cuidado de la piel este 2024.
 
-Este es el código de calendly para la pagina.
+y
+La nuestra q esta mal configurada:
+https://buypumpburnacvgummies.com/
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/online-successes-mx/30min" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async>[/script]
+Necesitamos hacer landing page que venta gomitas keto para adelgazar y su clon que sea para vender un programa de dietas completo en pdf.
+
+Sin redes sociales
+Los mismos términos y condiciones, números de contacto y correos por favor
+
+El formulario debe ser como el de keto avance, todo igualito. Sobre la página de vender el programa la estructura es la misma. En efecto
+
+Si crees necesario que haya que rediseñar algo para que sea mas efectiva la venta y la cerremos. Adelante.
+
