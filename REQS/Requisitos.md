@@ -31,4 +31,3 @@ Los mismos términos y condiciones, números de contacto y correos por favor
 El formulario debe ser como el de keto avance, todo igualito. Sobre la página de vender el programa la estructura es la misma. En efecto
 
 Si crees necesario que haya que rediseñar algo para que sea mas efectiva la venta y la cerremos. Adelante.
-
